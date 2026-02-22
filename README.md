@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Janhavi Rathod
 
-<!--
-**JMR825/JMR825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Science Engineering Student  
+📍 Shree Devi College, VTU  
+🚀 Passionate about DSA | Web Dev | Blockchain  
 
-Here are some ideas to get you started:
+## 💻 Skills
+- Languages: C, Java, Python, JavaScript
+- Web: HTML, CSS, React, Node.js, Express
+- Database: MongoDB, SQL
+- Tools: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Currently Learning
+- Advanced DSA
+- System Design
+- Cloud Computing
+- Blockchain
+- React + Backend Deep Dive
+
+## 📫 Connect With Me
+- LinkedIn: (https://www.linkedin.com/in/janhavi-rathod-448707256/)

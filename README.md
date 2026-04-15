@@ -5,7 +5,7 @@
 🚀 Passionate about DSA | Web Dev | Blockchain  
 
 ## 💻 Skills
-- Languages: C, Java, Python, JavaScript
+- Languages: C, Java, Python, JavaScript, Solidity
 - Web: HTML, CSS, React, Node.js, Express
 - Database: MongoDB, SQL
 - Tools: Git, GitHub

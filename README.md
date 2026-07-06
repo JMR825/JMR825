@@ -1,6 +1,6 @@
-# Hi Janhavi here! 👋
+# Hi I'm Janhavi! 👋
 
-Welcome to my profile! I am a passionate developer focusing on the intersections of Machine Learning, Full-Stack Development, and Cybersecurity.
+Welcome to my profile! I am a passionate developer focusing on the intersections of Machine Learning, Full-Stack Development, and just started to learn Cybersecurity.
 
 ## 🚀 About Me
 

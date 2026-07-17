@@ -69,12 +69,13 @@ src="https://img.shields.io/github/followers/JMR825?logo=github&style=for-the-ba
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=JMR825&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=JMR825&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jmr825&theme=holi&animation=draw" />
 </p>
-
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=JMR825&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jmr825&theme=holi&animation=draw" />
+</p>
+<p align="center">
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jmr825&theme=holi&animation=draw" />
 </p>
 
 ---

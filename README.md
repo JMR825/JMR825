@@ -1,124 +1,158 @@
-# Hi I'm Janhavi! 👋
+# Hi, I'm Janhavi Rathod 👋
 
-Welcome to my profile! I am a passionate developer focusing on the intersections of Machine Learning, Full-Stack Development, and just started to learn Cybersecurity.
+### Software Engineer | C++ & Python | DSA | SQL | React | AI/ML
 
-## 🚀 About Me
+I'm an Information Science & Engineering student focused on building practical software and AI/ML applications.
 
-- ✉️ **Contact Me:** [janhavi.rathod255@gmail.com](mailto:janhavi.rathod255@gmail.com)
-- 👥 **Collaboration:** Open to innovative projects in **Machine Learning** and **Cybersecurity**.
-- 💬 **Learning Focus:** Actively sharpening my skill set with modern **Cybersecurity Tools & Penetration Testing**.
+I enjoy solving problems with **C++**, working with **Python and SQL**, building applications with **React**, and applying **Machine Learning and Deep Learning** to real-world problems.
 
----
-
-## 💻 Tech Stack
-
-### 💻 Programming Languages
-
-| C++ | C | Python | JavaScript | TypeScript | Rust |
-|------|---|--------|------------|------------|------|
-| <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="40" title="C++"></a> | <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="40" title="C"></a> | <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" title="Python"></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" title="JavaScript"></a> | <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" title="TypeScript"></a> | <a href="https://www.rust-lang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="40" title="Rust"></a> |
+- 💻 Practicing **Data Structures & Algorithms in C++**
+- 🐍 Working with **Python for ML, data processing and applications**
+- 🗄️ Strengthening **SQL and database fundamentals**
+- ⚛️ Building applications with **React**
+- 🤖 Building and experimenting with **Machine Learning & Deep Learning**
+- 🧠 Interested in **AI-powered software applications**
+- 🚀 Open to **Software Engineer, SDE, AI/ML and Junior Developer opportunities**
 
 ---
 
-### 🌐 Frontend
+## 🛠️ Skills
 
-| HTML5 | CSS3 | React | Next.js | Redux | Vite | Remix |
-|--------|------|--------|---------|--------|-------|--------|
-| <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40"></a> | <a href="https://www.w3.org/TR/CSS/#css"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40"></a> | <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40"></a> | <a href="https://nextjs.org/docs"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="40"></a> | <a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="40"></a> | <a href="https://vitejs.dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="40"></a> | <a href="https://remix.run/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/remix-colored-dark.svg" width="40"></a> |
+### Programming Languages
 
----
+**C++** • **Python** • **Java** • **C** • **JavaScript** • **TypeScript** • **SQL**
 
-### ⚙️ Backend
+### Computer Science
 
-| Node.js | Express | FastAPI | Django |
-|----------|----------|----------|---------|
-| <a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40"></a> | <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="40"></a> | <a href="https://fastapi.tiangolo.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="40"></a> | <a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="40"></a> |
+**Data Structures & Algorithms** • **OOP** • **DBMS** • **Problem Solving**
 
----
+### Development
 
-### 🗄️ Databases & Cloud
+**React** • **Vite** • **HTML** • **CSS** • **REST APIs** • **Git** • **GitHub** • **Docker**
 
-| MongoDB | Firebase | Google Cloud | Render |
-|----------|-----------|--------------|---------|
-| <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40"></a> | <a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="40"></a> | <a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="40"></a> | <a href="https://render.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="40"></a> |
+### Machine Learning & AI
 
----
+**scikit-learn** • **PyTorch** • **TensorFlow** • **pandas** • **NumPy**
 
-### 🤖 AI / Machine Learning
-
-| PyTorch | TensorFlow |
-|----------|------------|
-| <a href="https://pytorch.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="40"></a> | <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="40"></a> |
+**Regression** • **Classification** • **Feature Engineering** • **Model Evaluation**  
+**CNNs** • **LSTMs** • **NLP** • **Computer Vision** • **Embeddings**
 
 ---
 
-### 🛠️ Tools & Operating Systems
+# 🚀 Featured Projects
 
-| VS Code | Linux | Ubuntu |
-|----------|--------|---------|
-| <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40"></a> | <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40"></a> | <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="40"></a> |
+## 📚 GradeSmart AI
 
-### Socials
+**AI-powered assessment and grading platform**
 
-<p align="left"> <a href="https://www.github.com/JMR825" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/janhavi-m-rathod" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-<a href="https://www.github.com/JMR825" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/JMR825?logo=github&style=for-the-badge&color=22c55e&labelColor=7f1d1d" /></a>
+A full-stack AI application designed to automate assessment workflows and provide intelligent grading and feedback.
 
----
+### Highlights
 
-<h2 align="center">📊 GitHub Analytics</h2>
+- Automated assessment and grading workflows
+- OCR-based processing for image submissions
+- Semantic similarity for answer evaluation
+- LLM-powered feedback generation
+- React-based frontend
+- API-driven application architecture
+- Input validation and testing
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jmr825&theme=holi&animation=draw" />
-</p>
-<p align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jmr825&theme=holi&animation=draw" />
-</p>
-<p align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jmr825&theme=holi&animation=draw" />
-</p>
+🔗 [View Repository](https://github.com/JMR825/gradesmart-ai)
 
 ---
 
-## 🚀 Featured Projects
+## 📈 FinOptima
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📈 FinOptima</h3>
-      <p align="center">
-        AI-powered financial analysis and optimization platform.
-      </p>
-      <p align="center">
-        <a href="https://github.com/JMR825/FinOptima">
-          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 CivicPulse-AI</h3>
-      <p align="center">
-        AI-powered civic engagement and public issue analysis platform.
-      </p>
-      <p align="center">
-        <a href="https://github.com/JMR825/CivicPulse-AI">
-          <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+**AI-powered financial analysis and portfolio optimization platform**
 
-<h2 align="center">🏅 GitHub Trophies</h2>
+A machine-learning based financial application combining prediction, clustering and portfolio optimization.
 
-<p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=JMR825&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4](https://github-profile-trophy.vercel.app/?username=JMR825)" />
-</p>
+### Highlights
+
+- Market-data processing and feature engineering
+- Regression-based financial prediction
+- Random Forest and LSTM experimentation
+- KMeans clustering
+- Portfolio optimization
+- Risk and performance analysis
+- Interactive web interface
+
+🔗 [View Repository](https://github.com/JMR825/FinOptima)
 
 ---
 
-<h2 align="center">📈 Contribution Graph</h2>
+## ⚔️ Algorithmic Quest — DSA in C++
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JMR825&theme=tokyo-night&hide_border=true" />
-</p>
+**My ongoing Data Structures & Algorithms practice repository**
+
+A structured collection of C++ solutions focused on interview problem-solving patterns.
+
+### Topics
+
+- Arrays
+- Strings
+- Hashing
+- Linked Lists
+- Two Pointers
+- Prefix Sums
+- Sorting
+- Searching
+- Recursion
+- Stack & Queue
+- Trees
+- Graphs
+- Greedy
+- Dynamic Programming
+
+🔗 [View Repository](https://github.com/JMR825/algorithmic-quest)
+
+---
+
+## 🧠 Machine Learning & Deep Learning Experiments
+
+**iNeuBytes AI/ML Internship**
+
+Practical ML/DL experimentation covering computer vision and NLP.
+
+### Highlights
+
+- CIFAR-10 image classification using CNNs
+- Data augmentation experiments
+- Model-depth experiments
+- Overfitting diagnosis
+- Confusion-matrix analysis
+- IMDb sentiment analysis
+- TF-IDF + classical ML models
+- LSTM-based sentiment classification
+- Model comparison and error analysis
+
+🔗 [View Repository](https://github.com/JMR825/Janhavi_INBT019897_iNeuBytes)
+
+---
+
+## 🏛️ CivicPulse-AI
+
+**AI-powered civic engagement platform**
+
+An AI-enabled application focused on civic participation, public issues and intelligent interaction.
+
+🔗 [View Repository](https://github.com/JMR825/CivicPulse-AI)
+
+---
+
+# 📊 What I'm Currently Working On
+
+```text
+                    SOFTWARE ENGINEERING
+                           │
+             ┌─────────────┼─────────────┐
+             │             │             │
+           C++            SQL          Python
+             │             │             │
+            DSA       Databases        ML/AI
+             │                           │
+             └─────────────┬─────────────┘
+                           │
+                         React
+                           │
+                    AI-powered Apps
